@@ -12,8 +12,8 @@ get_icon() {
         01d) icon=" " ;;
         01n) icon=" " ;;
         02d) icon=" " ;;
-        02n) icon=" " ;;
-        03*) icon=" " ;;
+        02n) icon="  " ;;
+        03*) icon="  " ;;
         04*) icon=" " ;;
         09*) icon="" ;;
         10*) icon="" ;;
